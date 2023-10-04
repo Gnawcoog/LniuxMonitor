@@ -1,4 +1,4 @@
-# LniuxMonitor 如何运行？
+# LinuxMonitor 如何运行？
 
 ## git 环境配置
 ```shell
