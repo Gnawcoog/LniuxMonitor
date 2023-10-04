@@ -52,8 +52,7 @@ cd /home/kaget/work/LinuxMonitor/docker/scripts  # 注意路径
 ./monitor_docker run.sh  # 启动容器
 ./monitor docker into.sh  # 进入容器
 ```
-
-### 编译代码
+#### 编译代码
 ```shell
 cd work
 cd make
