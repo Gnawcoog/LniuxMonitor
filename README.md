@@ -19,7 +19,7 @@ cd work
 git clone git@github.com:Gnawcoog/LniuxMonitor:git  # 注意仓库地址
 ```
 
-## vscode远程ssh到ubuntu
+## vscode远程ssh到Ubuntu
 ```shell
 sudo apt install net-tools
 ipconfig  # 查看ip  
