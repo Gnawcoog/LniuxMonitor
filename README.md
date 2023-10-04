@@ -59,4 +59,9 @@ cd cmake
 cmake ..
 make -j6
 ```
-
+#### 运行代码
+```shell
+# 启动容器
+# 进入容器
+# 依次启动cmake目录下的server、monitor、display
+```
