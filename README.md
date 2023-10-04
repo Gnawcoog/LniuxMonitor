@@ -42,7 +42,7 @@ docker ps
 ```
 #### 通过项目中dockerfile文件，构建项目镜像
 ```shell
-cd /home/super/work/private-node/docker/build
+cd /home/kaget/work/private-node/docker/build  # 注意路径
 docker build --network host -f base.dockerfile .  #等待时间会比较长，镜像大小大约4G
 docker images # 查看镜像id
 ```
