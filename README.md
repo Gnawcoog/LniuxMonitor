@@ -56,7 +56,7 @@ cd /home/kaget/work/LinuxMonitor/docker/scripts  # 注意路径
 ```shell
 cd work
 cd cmake
-make ..
+cmake ..
 make -j6
 ```
 
