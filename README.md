@@ -36,7 +36,8 @@ sudo sh test-docker.sh
 #### docker加入用户组
 ```shell
 sudo groupadd docker
-sudo usermod -aG docker $(USER}sudo systemctl restart docker
+sudo usermod -aG docker $(USER}
+sudo systemctl restart docker
 newgrp docker
 docker ps
 ```
